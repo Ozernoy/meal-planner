@@ -1,0 +1,200 @@
+{
+    "products": [
+        {
+            "name": "FiberPowder",
+            "calories": 200,
+            "protein": 0,
+            "fat": 0,
+            "carbs": 15
+        },
+        {
+            "name": "WheyProtein",
+            "calories": 394,
+            "protein": 80.9,
+            "fat": 5.2,
+            "carbs": 6.4
+        },
+        {
+            "name": "Milk",
+            "calories": 50,
+            "protein": 3.3,
+            "fat": 2,
+            "carbs": 4.8
+        },
+        {
+            "name": "Buckwheat",
+            "calories": 343,
+            "protein": 13.3,
+            "fat": 3.4,
+            "carbs": 72.5
+        },
+        {
+            "name": "Oil",
+            "calories": 884,
+            "protein": 0,
+            "fat": 100,
+            "carbs": 0
+        },
+        {
+            "name": "Almonds",
+            "calories": 579,
+            "protein": 21,
+            "fat": 50,
+            "carbs": 22
+        },
+        {
+            "name": "Tomatoes",
+            "calories": 18,
+            "protein": 0.9,
+            "fat": 0.2,
+            "carbs": 3.9
+        },
+        {
+            "name": "Bell Peppers",
+            "calories": 20,
+            "protein": 0.9,
+            "fat": 0.2,
+            "carbs": 4.6
+        },
+        {
+            "name": "Eggs",
+            "calories": 143,
+            "protein": 12.6,
+            "fat": 9.5,
+            "carbs": 0.7
+        },
+        {
+            "name": "Oatmeal",
+            "calories": 389,
+            "protein": 16.9,
+            "fat": 6.9,
+            "carbs": 66
+        },
+        {
+            "name": "Chicken Breasts",
+            "calories": 165,
+            "protein": 31,
+            "fat": 3.6,
+            "carbs": 0
+        },
+        {
+            "name": "Pro20",
+            "calories": 65,
+            "protein": 10,
+            "fat": 0,
+            "carbs": 6
+        },
+        {
+            "name": "Nuggets",
+            "calories": 248,
+            "protein": 14,
+            "fat": 12,
+            "carbs": 21
+        },
+        {
+            "name": "Beef for stew",
+            "calories": 265,
+            "protein": 20,
+            "fat": 19,
+            "carbs": 0
+        },
+        {
+            "name": "Chedder",
+            "calories": 402,
+            "protein": 25,
+            "fat": 33,
+            "carbs": 1.3
+        },
+        {
+            "name": "GroundMIX",
+            "calories": 285,
+            "protein": 17,
+            "fat": 20,
+            "carbs": 0
+        },
+        {
+            "name": "Antrecote",
+            "calories": 260,
+            "protein": 19,
+            "fat": 21,
+            "carbs": 0
+        },
+        {
+            "name": "Peanut Butter",
+            "calories": 588,
+            "protein": 25,
+            "fat": 50,
+            "carbs": 20
+        },
+        {
+            "name": "Rice",
+            "calories": 365,
+            "protein": 7.1,
+            "fat": 0.7,
+            "carbs": 80.0
+        },
+        {
+            "name": "CheeseEggSandwhich",
+            "calories": 277,
+            "protein": 14,
+            "fat": 17,
+            "carbs": 16.9
+        },
+        {
+            "name": "WholeGrainBread",
+            "calories": 247,
+            "protein": 13,
+            "fat": 4.2,
+            "carbs": 43
+        },
+        {
+            "name": "Turkey",
+            "calories": 130,
+            "protein": 27.9,
+            "fat": 2.1,
+            "carbs": 0
+        },
+        {
+            "name": "Olive Oil",
+            "calories": 884,
+            "protein": 0.0,
+            "fat": 100.0,
+            "carbs": 0.0
+        },
+        {
+            "name": "Apples",
+            "calories": 52,
+            "protein": 0.3,
+            "fat": 0.2,
+            "carbs": 13.8
+        },
+        {
+            "name": "Bananas",
+            "calories": 89,
+            "protein": 1.1,
+            "fat": 0.3,
+            "carbs": 23
+        },
+        {
+            "name": "Hazelnuts",
+            "calories": 628,
+            "protein": 15,
+            "fat": 61,
+            "carbs": 17
+        },
+        {
+            "name": "Cucumbers",
+            "calories": 16,
+            "protein": 0.7,
+            "fat": 0.1,
+            "carbs": 3.6
+        },
+        {
+            "name": "Low-Fat Cottage Cheese",
+            "calories": 98,
+            "protein": 11,
+            "fat": 4.3,
+            "carbs": 3.4
+        }
+    ]
+}
